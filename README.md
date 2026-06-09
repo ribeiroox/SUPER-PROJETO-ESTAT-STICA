@@ -79,7 +79,7 @@ Pré-requisito: instalar o Streamlit
 bashpip install streamlit
 Rodar o dashboard:
 bashstreamlit run dashboard.py
-O dashboard abrirá automaticamente no navegador em http://localhost:8501.
+O dashboard abrirá automaticamente no navegador
 
 ⚠️ O arquivo amazon.csv precisa estar na mesma pasta do dashboard.py.
 
